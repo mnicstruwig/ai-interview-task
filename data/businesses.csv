@@ -1,0 +1,11 @@
+id,name,industry,city,state,employees,annual_revenue_usd,founded_year
+1,Acme Widgets,Manufacturing,Dayton,OH,120,15000000,1985
+2,Blue Harbor Coffee,Food & Beverage,Seattle,WA,35,2400000,2012
+3,Pinecrest Dental,Healthcare,Boulder,CO,18,3100000,2004
+4,Nimbus Analytics,Software,Austin,TX,64,9800000,2017
+5,Redline Logistics,Transportation,Memphis,TN,210,42000000,1998
+6,Greenleaf Landscaping,Services,Raleigh,NC,27,1900000,2009
+7,Summit Legal Group,Legal,Denver,CO,45,11200000,1993
+8,Brightside Solar,Energy,Phoenix,AZ,88,17500000,2014
+9,Copperpot Bakery,Food & Beverage,Portland,OR,12,850000,2019
+10,Ironclad Security,Software,Arlington,VA,150,26000000,2008
